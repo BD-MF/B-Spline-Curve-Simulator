@@ -1,9 +1,13 @@
-# A B-spline curve simulator
+# A B-spline curve simulator (2015)
 
 I used glfw3 and glew
 
 Compile:
-	-> $ g++ main.cpp -lGL -lGLU -lglut -lglfw
+
+	$ g++ main.cpp -lGL -lGLU -lglut -lglfw
+
+![Alt text](https://github.com/imruljubair/B-Spline-Curve-Simulator/blob/master/bspline.png)
+
 
 Key List:
 
