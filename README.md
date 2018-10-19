@@ -4,7 +4,7 @@ I used glfw3 and glew
 
 Compile:
 
-	$ g++ main.cpp -lGL -lGLU -lglut -lglfw
+	$ g++ main.cpp -lGL -lGLU -lglfw
 
 ![Alt text](https://github.com/imruljubair/B-Spline-Curve-Simulator/blob/master/bspline.png)
 
